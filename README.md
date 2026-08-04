@@ -40,14 +40,14 @@ Estima-se que esta base de conhecimento proporcione uma **redução de até 60% 
 ## 👥 Equipe e Orientação
 
 ### ✍️ Autores (Discentes)
-* 👨‍💻 [**Antonny Adryan de Andrade**](http://lattes.cnpq.br/3764943485025248)
-* 👨‍💻 [**Cícero Bento Dantas Fernandes**](http://lattes.cnpq.br/9661989505513469)
-* 👨‍💻 [**Gervásio Filho Souza de Lima**](http://lattes.cnpq.br/8523883028703687)
-* 👨‍💻 [**Jácio Mauê do Nascimento Silva**](http://lattes.cnpq.br/1822484917550390)
+* [**Antonny Adryan de Andrade**](http://lattes.cnpq.br/3764943485025248)
+* [**Cícero Bento Dantas Fernandes**](http://lattes.cnpq.br/9661989505513469)
+* [**Gervásio Filho Souza de Lima**](http://lattes.cnpq.br/8523883028703687)
+* [**Jácio Mauê do Nascimento Silva**](http://lattes.cnpq.br/1822484917550390)
 
 ### 👨‍🏫 Orientadores
-* 🏫 [**Prof. Gutemberg Santos Santiago**](http://lattes.cnpq.br/1423358177316450) — *Orientador Principal*
-* 🏫 [**Prof. Karlo Sérgio Medeiros Leopoldino**](http://lattes.cnpq.br/1397392760629073) — *Coorientador*
+* [**Prof. Gutemberg Santos Santiago**](http://lattes.cnpq.br/1423358177316450) — *Orientador Principal*
+* [**Prof. Karlo Sérgio Medeiros Leopoldino**](http://lattes.cnpq.br/1397392760629073) — *Coorientador*
 
 **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) — Campus Santa Cruz  
 **Curso:** Técnico de Nível Médio em Informática na Forma Integrada   
